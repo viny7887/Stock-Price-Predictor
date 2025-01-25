@@ -19,6 +19,25 @@ tensorflow
 matplotlib
 You can install these dependencies using pip:
 
+pip install numpy pandas yfinance scikit-learn tensorflow matplotlib
+
+How to Use
+1. Clone the Repository
+First, clone the repository to your local machine:
+
+git clone https://github.com/your-username/stock-price-prediction.git
+cd stock-price-prediction
+
+2. Modify the Stock Ticker (Optional)
+You can modify the stock ticker in the code to predict stock prices for other companies. Just change the following line to your desired stock's ticker:
+
+ticker = 'RELIANCE.NS'  # Change this to any stock ticker you want to predict (e.g., 'AAPL', 'TSLA')
+
+3. Run the Code
+Run the code in a Jupyter notebook or Python script:
+
+python stock_price_predictor.py
+
 View the Results
 The code will display:
 
