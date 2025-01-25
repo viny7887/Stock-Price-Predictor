@@ -55,4 +55,4 @@ Evaluation
 The model uses the Root Mean Squared Error (RMSE) to evaluate performance. Lower RMSE values indicate better model accuracy.
 
 Conclusion
-This project demonstrates how to use LSTM to predict stock prices, providing a basis for more advanced time-series forecasting models. You can further improve the model by using additional features like trading volume, high/low prices, or even external factors like market news.
+Thiss project demonstrates how to use LSTM to predict stock prices, providing a basis for more advanced time-series forecasting models. You can further improve the model by using additional features like trading volume, high/low prices, or even external factors like market news.
